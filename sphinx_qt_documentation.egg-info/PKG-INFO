@@ -1,3 +1,33 @@
+Metadata-Version: 2.1
+Name: sphinx-qt-documentation
+Version: 0.4.1
+Summary: Plugin for proper resolve intersphinx references for Qt elements
+Home-page: https://github.com/Czaki/sphinx-qt-documentation
+Author: Grzegorz Bokota
+Author-email: bokota@gmail.com
+License: BSD-3-Clause
+Keywords: Sphinx,Qt,PyQt5,PySide2,PyQt6,PySide6
+Platform: Linux
+Platform: Windows
+Platform: MacOs
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: lint
+Provides-Extra: test
+License-File: LICENSE.txt
+
 # Sphinx Qt documentation
 
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/Czaki/sphinx-qt-documentation/master.svg)](https://results.pre-commit.ci/latest/github/Czaki/sphinx-qt-documentation/master)
